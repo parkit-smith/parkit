@@ -1,0 +1,1 @@
+I am practicing how to commit a change to my Github Repository through VS Code. 
