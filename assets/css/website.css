@@ -43,10 +43,8 @@
   }
 
   @font-face {
-    font-family: 'Pitagon';
-    src: url(/assets/fonts/pitagon_sans_text/fonts/otf/PitagonSansText-Regular.otf) format('opentype'),
-         url(/assets/fonts/pitagon_sans_text/fonts/ttf/PitagonSansText-Regular.ttf) format('truetype'),
-         url(/assets/fonts/pitagon_sans_text/fonts/webfonts/PitagonSansText-Regular.woff2) format('woff2');
+    font-family: 'Adventure Await';
+    src: url(/assets/fonts/ADVENTURE\ AWAIT.otf) format('opentype')
     font-weight: normal;
     font-style: normal;
   }
