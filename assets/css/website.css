@@ -56,6 +56,11 @@
   *::after {
     box-sizing: border-box;
   }
+
+  my_class {
+    font-family: 'Pitagon', sans-serif;
+    font-size: 7rem
+  }
   
   html {
     font-family: sans-serif;
