@@ -11826,7 +11826,7 @@
   
   .header .overlay .subtitle {
     margin-top: -20px;
-    font-family: Pitagon;
+    font-family: 'Pitagon';
     font-size: calc(20px + (30 - 20) * ((100vw - 320px) / (1200 - 320)));
     font-weight: 300;
   }
