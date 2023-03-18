@@ -4592,9 +4592,9 @@
   
   .navbar-brand {
     display: inline-block;
-    padding-top: 0.3125rem;
-    padding-bottom: 0.3125rem;
-    margin-right: 1rem;
+    padding-top: 0.125rem;
+    padding-bottom: 0.125rem;
+    margin-right: 0.5rem;
     font-size: 1.25rem;
     line-height: inherit;
     white-space: nowrap;
@@ -11676,11 +11676,11 @@
   }
   
   .footer .logo {
-    padding-bottom: 1px;
+    padding-bottom: 6px;
   }
   
   .footer .logo img {
-    width: 15px;
+    width: 35px;
   }
   
   .footer .logo h6 {
