@@ -4993,11 +4993,11 @@
   }
   
   .navbar-dark .navbar-brand {
-    color: #ff214f;
+    color: #fff;
   }
   
   .navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
-    color: #ff214f;
+    color: #fff;
   }
   
   .navbar-dark .navbar-nav .nav-link {
