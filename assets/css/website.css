@@ -38,7 +38,7 @@
     --breakpoint-md: 768px;
     --breakpoint-lg: 992px;
     --breakpoint-xl: 1200px;
-    --font-family-sans-serif: Pitagon, "Fira Sans", sans-serif;
+    --font-family-sans-serif: "Fira Sans", sans-serif;
     --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
@@ -53,9 +53,7 @@
 
   @font-face {
     font-family: 'Trajan Pro';
-    src: url(/assets/fonts/Trajan\ Pro.ttf) format('truetype');
-    font-weight: normal;
-    font-style: normal;
+    src: url(/assets/fonts/Trajan\ Pro.ttf) format('truetype')
   }
   
   *,
@@ -10991,7 +10989,7 @@
   }
   
   body {
-    font-family: "Fira Sans", sans-serif;
+    font-family: 'Trajan Pro', "Fira Sans", sans-serif;
     color: #495057;
     background: #fff;
     box-sizing: border-box;
@@ -11838,12 +11836,13 @@
   
   .header .overlay .subtitle {
     margin-top: -20px;
-    font-family:Pitagon;
+    font-family: 'Trajan Pro';
     font-size: calc(20px + (30 - 20) * ((100vw - 320px) / (1200 - 320)));
     font-weight: 300;
   }
   
   .header .overlay .title {
+    font-family: 'Trajan Pro';
     font-size: calc(40px + (90 - 40) * ((100vw - 320px) / (1200 - 320)));
     margin-bottom: 40px;
   }
