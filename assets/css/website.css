@@ -43,7 +43,7 @@
   }
 
   @font-face {
-    font-family: "Pitagon";
+    font-family: Pitagon;
     src: url("/assets/fonts/pitagon_sans_text/fonts/otf/PitagonSansText-Regular.otf") format('opentype'),
          url("/assets/fonts/pitagon_sans_text/fonts/ttf/PitagonSansText-Regular.ttf") format('truetype'),
          url("/assets/fonts/pitagon_sans_text/fonts/webfonts/PitagonSansText-Regular.woff2") format('woff2');
@@ -11824,6 +11824,7 @@
   
   .header .overlay .subtitle {
     margin-top: -20px;
+    font-family: Pitagon;
     font-size: calc(20px + (30 - 20) * ((100vw - 320px) / (1200 - 320)));
     font-weight: 300;
   }
