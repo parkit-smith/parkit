@@ -50,6 +50,13 @@
     font-weight: normal;
     font-style: normal;
   }
+
+  @font-face {
+    font-family: 'Trajan Pro';
+    src: url(/assets/fonts/Trajan\ Pro.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
   
   *,
   *::before,
@@ -58,7 +65,7 @@
   }
 
   my_class {
-    font-family: 'Pitagon', sans-serif;
+    font-family: 'Trajan Pro', sans-serif;
     font-size: 7rem
   }
   
