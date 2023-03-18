@@ -38,7 +38,7 @@
     --breakpoint-md: 768px;
     --breakpoint-lg: 992px;
     --breakpoint-xl: 1200px;
-    --font-family-sans-serif: "Fira Sans", sans-serif;
+    --font-family-sans-serif: Pitagon, "Fira Sans", sans-serif;
     --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
@@ -11826,7 +11826,7 @@
   
   .header .overlay .subtitle {
     margin-top: -20px;
-    font-family:'Courier New', Courier, monospace;
+    font-family:Pitagon;
     font-size: calc(20px + (30 - 20) * ((100vw - 320px) / (1200 - 320)));
     font-weight: 300;
   }
