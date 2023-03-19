@@ -11870,7 +11870,7 @@
   
   .header .overlay .title {
     font-family: 'Cooper Hewitt Medium';
-    font-weight: 600;
+    font-weight: 100;
     font-size: calc(40px + (90 - 40) * ((100vw - 320px) / (1200 - 320)));
     margin-bottom: 40px;
   }
