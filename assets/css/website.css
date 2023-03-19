@@ -11869,12 +11869,12 @@
   
   .header .overlay .subtitle {
     margin-top: -20px;
-    font-family: 'Cooper Hewitt Bold';
+    font-family: 'Cooper Hewitt';
     font-size: calc(20px + (30 - 20) * ((100vw - 320px) / (1200 - 320)));
   }
   
   .header .overlay .title {
-    font-family: 'Cooper Hewitt Bold';
+    font-family: 'Cooper Hewitt';
     font-size: calc(40px + (90 - 40) * ((100vw - 320px) / (1200 - 320)));
     margin-bottom: 40px;
   }
