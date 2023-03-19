@@ -44,38 +44,38 @@
 
   @font-face {
     font-family: 'Cooper Hewitt Light';
-    src: url(/assets/fonts/cooper-hewitt/CooperHewitt-Light.otf)
+    src: url(/assets/fonts/cooper-hewitt/CooperHewitt-Light.otf);
     font-weight: 200;
   }
 
   @font-face {
     font-family: 'Cooper Hewitt Book';
-    src: url(/assets/fonts/cooper-hewitt/CooperHewitt-Book.otf)
+    src: url(/assets/fonts/cooper-hewitt/CooperHewitt-Book.otf);
     font-weight: 300;
   }
 
   @font-face {
     font-family: 'Cooper Hewitt Medium';
-    src: url(/assets/fonts/cooper-hewitt/CooperHewitt-Medium.otf)
+    src: url(/assets/fonts/cooper-hewitt/CooperHewitt-Medium.otf);
     font-weight: 400;
   }
 
   @font-face {
     font-family: 'Cooper Hewitt Semibold';
-    src: url(/assets/fonts/cooper-hewitt/CooperHewitt-Semibold.otf)
+    src: url(/assets/fonts/cooper-hewitt/CooperHewitt-Semibold.otf);
     font-weight: 600;
   }
 
   @font-face {
     font-family: 'Cooper Hewitt Bold';
-    src: url(/assets/fonts/cooper-hewitt/CooperHewitt-Bold.otf)
+    src: url(/assets/fonts/cooper-hewitt/CooperHewitt-Bold.otf);
     font-weight: 700;
   }
 
 
   @font-face {
     font-family: 'Adventure Await';
-    src: url(/assets/fonts/ADVENTURE\ AWAIT.otf) format('opentype')
+    src: url(/assets/fonts/ADVENTURE\ AWAIT.otf) format('opentype');
     font-weight: normal;
     font-style: normal;
   }
