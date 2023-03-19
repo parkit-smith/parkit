@@ -118,7 +118,7 @@
   
    /* Change the border line color of the dropdown button when the dropdown button is clicked */
   .dropdown:focus .dropbtn {
-    background-color: #A3C14A;
+    background-color: red;
     border-color: #A3C14A;
   }
   html {
