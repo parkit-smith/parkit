@@ -11900,6 +11900,12 @@
     font-size: calc(40px + (90 - 40) * ((100vw - 320px) / (1200 - 320)));
     margin-bottom: 40px;
   }
+
+  .header .overlay .page-title {
+    font-family: 'Bebas Neue', cursive;
+    font-size: calc(40px + (90 - 40) * ((100vw - 320px) / (1600 - 320)));
+    margin-bottom: 40px;
+  }
   
   @media (max-width: 767.98px) {
     .header .overlay .subtitle {
