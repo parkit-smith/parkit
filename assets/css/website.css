@@ -117,7 +117,7 @@
   .dropdown:hover .dropbtn {background-color: #A3C14A;}
   
    /* Change the border line color of the dropdown button when the dropdown button is clicked */
-  .dropdown:active .dropbtn {
+  .dropdown:visited .dropbtn {
     background-color: red;
     border-color: #A3C14A;
   }
