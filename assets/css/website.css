@@ -43,6 +43,13 @@
   }
 
   @font-face {
+    font-family: 'Cooper Hewitt';
+    src: url(/assets/fonts/cooper-hewitt/CooperHewitt-Medium.otf)
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
     font-family: 'Adventure Await';
     src: url(/assets/fonts/ADVENTURE\ AWAIT.otf) format('opentype')
     font-weight: normal;
@@ -11833,13 +11840,13 @@
   
   .header .overlay .subtitle {
     margin-top: -20px;
-    font-family: 'Adventure Await';
+    font-family: 'Cooper Hewitt';
     font-size: calc(20px + (30 - 20) * ((100vw - 320px) / (1200 - 320)));
     font-weight: 300;
   }
   
   .header .overlay .title {
-    font-family: 'Trajan Pro';
+    font-family: 'Cooper Hewitt';
     font-size: calc(40px + (90 - 40) * ((100vw - 320px) / (1200 - 320)));
     margin-bottom: 40px;
   }
