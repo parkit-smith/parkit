@@ -2797,8 +2797,8 @@
   
   .btn-primary {
     color: #fff;
-    background-color: #ff214f;
-    border-color: #ff214f;
+    background-color: #A3C14A;
+    border-color: #A3C14A;
   }
   
   .btn-primary:hover {
@@ -2813,8 +2813,8 @@
   
   .btn-primary.disabled, .btn-primary:disabled {
     color: #fff;
-    background-color: #ff214f;
-    border-color: #ff214f;
+    background-color: #A3C14A;
+    border-color: #A3C14A;
   }
   
   .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
@@ -3068,14 +3068,14 @@
   }
   
   .btn-outline-primary {
-    color: #ff214f;
-    border-color: #ff214f;
+    color: #A3C14A;
+    border-color: #A3C14A;
   }
   
   .btn-outline-primary:hover {
     color: #fff;
-    background-color: #ff214f;
-    border-color: #ff214f;
+    background-color: #A3C14A;
+    border-color: #A3C14A;
   }
   
   .btn-outline-primary:focus, .btn-outline-primary.focus {
