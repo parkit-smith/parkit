@@ -10997,7 +10997,8 @@
   }
   
   body {
-    font-family: 'Adventure Await';
+    font-family: 'Inter';
+    font-weight: 300;
     color: #495057;
     background: #fff;
     box-sizing: border-box;
