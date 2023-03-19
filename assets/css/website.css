@@ -44,8 +44,7 @@
 
   @font-face {
     font-family: 'Cooper Hewitt Light';
-    src: url(/assets/fonts/cooper-hewitt/CooperHewitt-Light.otf);
-    font-weight: 200;
+    src: url(/assets/fonts/cooper-hewitt/CooperHewitt-Light.otf)
   }
 
   @font-face {
@@ -11870,7 +11869,6 @@
   
   .header .overlay .title {
     font-family: 'Cooper Hewitt Medium';
-    font-weight: 100;
     font-size: calc(40px + (90 - 40) * ((100vw - 320px) / (1200 - 320)));
     margin-bottom: 40px;
   }
