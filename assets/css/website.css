@@ -72,9 +72,10 @@
   }
 
   .dropbtn {
-    background-color: #04AA6D;
+    background-color: none;
     color: white;
-    padding: 16px;
+    padding: 0px;
+    font-family: Courier;
     font-size: 16px;
     border: none;
   }
