@@ -83,6 +83,11 @@
     font-family: 'Trajan Pro';
     src: url(/assets/fonts/Trajan\ Pro.ttf) format('truetype')
   }
+
+  @font-face {
+    font-family: 'Cooper Hewitt 1';
+    src: url(/assets/fonts/cooper-hewitt/CooperHewitt-Medium.otf) format('opentype')
+  }
   
   *,
   *::before,
@@ -11868,7 +11873,7 @@
   }
   
   .header .overlay .title {
-    font-family: 'Cooper Hewitt Medium';
+    font-family: 'Cooper Hewitt 1';
     font-size: calc(40px + (90 - 40) * ((100vw - 320px) / (1200 - 320)));
     margin-bottom: 40px;
   }
