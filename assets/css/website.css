@@ -116,6 +116,11 @@
   /* Change the background color of the dropdown button when the dropdown content is shown */
   .dropdown:hover .dropbtn {background-color: #A3C14A;}
   
+   /* Change the border line color of the dropdown button when the dropdown button is clicked */
+  .dropdown:focus .dropbtn {
+    background-color: #A3C14A;
+    border-color: #A3C14A;
+  }
   html {
     font-family: sans-serif;
     line-height: 1.15;
