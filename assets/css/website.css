@@ -60,7 +60,7 @@
   }
 
   @font-face {
-    font-family: 'Bebas';
+    font-family: 'Bebas Regular';
     src: url(/assets/fonts/Bebas-Regular.ttf) format('truetype')
   }
   
@@ -11848,7 +11848,7 @@
   }
   
   .header .overlay .title {
-    font-family: 'Bebas';
+    font-family: 'Bebas Regular';
     font-size: calc(40px + (90 - 40) * ((100vw - 320px) / (1200 - 320)));
     margin-bottom: 40px;
   }
