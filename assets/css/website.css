@@ -5021,7 +5021,7 @@
   }
   
   .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
-    color: #fff;
+    color: red;
   }
   
   .navbar-light .navbar-nav .nav-link {
