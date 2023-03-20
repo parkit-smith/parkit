@@ -11898,6 +11898,7 @@
   .page-header .page-overlay .page-title {
     font-family: 'Inter', cursive;
     font-size: calc(40px + (90 - 40) * ((100vw - 320px) / (1600 - 320)));
+    margin-bottom: -90px;
   }
   
   .header .overlay {
