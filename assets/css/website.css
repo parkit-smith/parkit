@@ -11896,9 +11896,8 @@
   }
 
   .page-header .page-overlay .page-title {
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Inter', cursive;
     font-size: calc(40px + (90 - 40) * ((100vw - 320px) / (1600 - 320)));
-    margin-bottom: 20px;
   }
   
   .header .overlay {
