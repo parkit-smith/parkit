@@ -11936,7 +11936,7 @@
   }
 
   .header .overlay .page-title {
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Trajan Pro', cursive;
     font-size: calc(40px + (90 - 40) * ((100vw - 320px) / (1600 - 320)));
     margin-bottom: 40px;
   }
