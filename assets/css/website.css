@@ -668,14 +668,13 @@
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
-    display: fixed;
+    display: flex;
     -webkit-flex-wrap: wrap;
         -ms-flex-wrap: wrap;
             flex-wrap: wrap;
     margin-right: -15px;
     margin-left: -15px;
   }
-  
   .no-gutters {
     margin-right: 0;
     margin-left: 0;
@@ -5154,6 +5153,10 @@
             flex: 1 1 auto;
     padding: 1.25rem;
   }
+
+  .my-card-body {
+    padding: 5.25rem;
+  }
   
   .card-title {
     margin-bottom: 0.75rem;
@@ -5222,6 +5225,13 @@
     padding: 1.25rem;
   }
   
+  .card-body {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 auto;
+        -ms-flex: 1 1 auto;
+            flex: 1 1 auto;
+    padding: 1.25rem;
+  }
   .card-img {
     width: 100%;
     border-radius: calc(0.2rem - 1px);
