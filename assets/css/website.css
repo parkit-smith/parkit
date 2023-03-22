@@ -698,6 +698,14 @@
     padding-left: 15px;
     background-color:red;
   }
+
+  .col-mine {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color:red;
+  }
   
   .col {
     -webkit-flex-basis: 0;
@@ -9060,6 +9068,7 @@
   .my-5 {
     margin-bottom: 3rem !important;
   }
+
   
   .ml-5,
   .mx-5 {
