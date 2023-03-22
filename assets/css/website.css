@@ -701,10 +701,18 @@
 
   .col-mine {
     position: relative;
-    width: 40%;
+    width: 30%;
     padding-right: 15px;
     padding-left: 15px;
     background-color:green;
+  }
+
+  .col-team-bio {
+    position: relative;
+    width: 60%;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color:red;
   }
   
   .col {
