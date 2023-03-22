@@ -12078,7 +12078,7 @@
   }
   
   section .section-title {
-    font-size: calc(28px + (35 - 28) * ((100vw - 320px) / (1000 - 320)));
+    font-size: calc(28px + (35 - 28) * ((100vw - 320px) / (500 - 320)));
   }
   
   @media (min-width: 992px) {
