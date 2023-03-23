@@ -71,6 +71,23 @@
     box-sizing: border-box;
   }
 
+  /* My Logo */
+  .logo {
+    color: white;
+    font-size: 24px;
+    font-family: 'Bebas Neue', cursive;
+    display: inline;
+  }
+
+    /* My Logo Scrolled */
+    .scroll-logo {
+      color: black;
+      font-size: 24px;
+      font-family: 'Bebas Neue', cursive;
+      display: inline;
+    }
+  
+  
   /* My Dropdown Button */
   .nav-link .dropbtn {
     background-color: transparent;
