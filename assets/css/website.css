@@ -71,9 +71,10 @@
     box-sizing: border-box;
   }
 
-  .dropbtn {
+  /* My Dropdown Button */
+  .nav-link .dropbtn {
     background-color: transparent;
-    color: white;
+    color: red;
     padding: 0.5rem 1rem;
     font-size: 14px;
     border: none;
