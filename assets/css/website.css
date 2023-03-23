@@ -11726,7 +11726,7 @@
     position: fixed;
     width: 100%;
     max-width: 100%;
-    background: transparent;
+    background: #fff;
     -webkit-animation-name: affix;
             animation-name: affix;
     -webkit-animation-duration: .6s;
