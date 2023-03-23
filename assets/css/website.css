@@ -11719,12 +11719,13 @@
   .custom-navbar .nav-link.active {
     color: #ff214f !important;
   }
-  
+   
+  /*dictates navbar bg color when affixed on top of page after scroll */
   .custom-navbar.affix {
     position: fixed;
     width: 100%;
     max-width: 100%;
-    background: red;
+    background: transparent;
     -webkit-animation-name: affix;
             animation-name: affix;
     -webkit-animation-duration: .6s;
