@@ -3682,7 +3682,7 @@
   .dropdown-item:hover, .dropdown-item:focus {
     color: #16181b;
     text-decoration: none;
-    background-color: red;
+    background-color: #f8f9fa;
   }
   
   .dropdown-item.active, .dropdown-item:active {
