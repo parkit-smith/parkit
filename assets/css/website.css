@@ -74,7 +74,7 @@
   /* My Logo */
   .logo {
     color: white;
-    font-size: 24px;
+    font-size: 34px;
     font-family: 'Bebas Neue', cursive;
     display: inline;
   }
@@ -82,7 +82,7 @@
     /* My Logo Scrolled */
     .scroll-logo {
       color: black;
-      font-size: 24px;
+      font-size: 34px;
       font-family: 'Bebas Neue', cursive;
       display: inline;
     }
