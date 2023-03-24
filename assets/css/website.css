@@ -5160,7 +5160,7 @@
     word-wrap: break-word;
     background-color: green;
     background-clip: border-box;
-    border: 0px solid #eaf0fc;
+    border: 10px solid #eaf0fc;
     border-radius: 0.05rem;
   }
   
