@@ -296,6 +296,7 @@
     align-items: center;
     justify-content: center;
     border-style: none;
+    box-shadow: 1px 3px 8px rgba(73, 80, 87, 0.2);
   }
 
   img {
