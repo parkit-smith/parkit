@@ -294,6 +294,7 @@
   img {
     vertical-align: middle;
     border-style: none;
+    object-fit: contain;
   }
   
   svg {
@@ -9067,7 +9068,7 @@
   
   .mb-4,
   .my-4 {
-    margin-bottom: 5.5rem !important;
+    margin-bottom: 1.5rem !important;
   }
   
   .ml-4,
