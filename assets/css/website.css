@@ -291,10 +291,15 @@
     margin: 0 0 1rem;
   }
   
-  img {
+  .my-img {
     display: flex;
     align-items: center;
     justify-content: center;
+    border-style: none;
+  }
+  
+  img {
+    vertical-align: middle;
     border-style: none;
   }
   
