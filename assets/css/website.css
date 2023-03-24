@@ -5157,12 +5157,12 @@
         -ms-flex-direction: column;
             flex-direction: column;
     min-width: 0;
-    min-height 200px;
     word-wrap: break-word;
     background-color: green;
     background-clip: border-box;
     border: 1px solid #eaf0fc;
     border-radius: 0.2rem;
+    margin-bottom: 1.0rem;
   }
   
   .card > hr {
