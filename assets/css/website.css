@@ -294,7 +294,7 @@
   img {
     vertical-align: middle;
     border-style: none;
-    object-fit: contain;
+    width: 10px;
   }
   
   svg {
