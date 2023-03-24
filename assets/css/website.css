@@ -299,6 +299,8 @@
     box-shadow: 1px 3px 8px rgba(73, 80, 87, 0.2);
     border-top-left-radius: calc(0.2rem - 1px);
     border-top-right-radius: calc(0.2rem - 1px);
+    border-bottom-left-radius: calc(0.2rem - 1px);
+    border-bottom-right-radius: calc(0.2rem - 1px);
   }
 
   img {
