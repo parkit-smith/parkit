@@ -12079,7 +12079,7 @@
     top: 0;
     right: 0;
     bottom: 0;
-    background-image: url(../imgs/section.jpg);
+    background-image: url(../imgs/grey.jpg);
     background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -12088,7 +12088,7 @@
   }
   
   section.has-bg-img.bg-img-1:after {
-    background-image: url(../imgs/section.jpg);
+    background-image: url(../imgs/grey.jpg);
   }
   
   section.has-bg-img.bg-img-2:after {
