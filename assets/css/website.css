@@ -304,7 +304,7 @@
   }
 
   iframe {
-    align-items: center;
+    vertical-align: middle;
     justify-content: center;
     padding-top: 30px;
     padding-bottom: 30px;
