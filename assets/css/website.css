@@ -11275,7 +11275,7 @@
     height: 100%;
     z-index: 9;
     visibility: hidden;
-    opacity: 0;
+    opacity: 0.5;
     -webkit-transition: all, 0.4s;
     transition: all, 0.4s;
   }
