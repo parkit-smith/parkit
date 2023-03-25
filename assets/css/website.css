@@ -303,6 +303,13 @@
     border-bottom-right-radius: calc(0.2rem - 1px);
   }
 
+  iframe {
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
   img {
     vertical-align: middle;
     border-style: none;
