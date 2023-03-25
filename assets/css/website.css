@@ -11267,7 +11267,7 @@
   }
   
   .img-wrapper .overlay {
-    background: #A3C14A;
+    background: rgba(163, 193, 74, 0.3);
     position: absolute;
     left: 0;
     top: 100%;
@@ -11275,7 +11275,7 @@
     height: 100%;
     z-index: 9;
     visibility: hidden;
-    opacity: 0.5;
+    opacity: 0;
     -webkit-transition: all, 0.4s;
     transition: all, 0.4s;
   }
