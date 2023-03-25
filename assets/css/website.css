@@ -739,7 +739,7 @@
     width: 100%;
     padding-right: 15px;
     padding-left: 15px;
-    background-color: white;
+    background-color: #f8f9fa;
   }
 
   .col-mine {
@@ -747,7 +747,7 @@
     width: 30%;
     padding-right: 15px;
     padding-left: 15px;
-    background-color: white;
+    background-color: #f8f9fa;
   }
 
   .col-team-bio {
