@@ -255,7 +255,7 @@
   }
   
   a:hover {
-    color: black;
+    color: #d4002c;
     text-decoration: underline;
   }
   
@@ -12067,7 +12067,7 @@
   }
   
   section.has-bg-img {
-    background: rgba(33, 37, 41, 0.95);
+    background: rgba(248, 249, 250, 0.85);
     position: relative;
     color: #fff;
   }
