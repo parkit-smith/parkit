@@ -2912,7 +2912,7 @@
   }
   
   .btn-primary:focus, .btn-primary.focus {
-    box-shadow: 0 0 0 0.2rem rgba(255, 66, 105, 0.5);
+    box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.5);
   }
   
   .btn-primary.disabled, .btn-primary:disabled {
