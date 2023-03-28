@@ -87,6 +87,8 @@
   display: none;
 }
 
+#slide1 {display:block}
+
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
