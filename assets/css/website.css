@@ -2907,8 +2907,8 @@
   
   .btn-primary:hover {
     color: #fff;
-    background-color: #fa0034;
-    border-color: #ed0031;
+    background-color: black;
+    border-color: black;
   }
   
   .btn-primary:focus, .btn-primary.focus {
