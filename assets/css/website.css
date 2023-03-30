@@ -41,7 +41,7 @@
     --font-family-sans-serif: "Fira Sans", sans-serif;
     --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
-  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=block');
 
     @font-face {
     font-family: 'Adventure Await';
@@ -171,7 +171,7 @@
   .logo {
     color: white;
     font-size: 34px;
-    font-family: 'Bebas Regular';
+    font-family: 'Bebas Neue', cursive;
     display: inline;
   }
 
