@@ -172,6 +172,7 @@
     color: white;
     font-size: 34px;
     font-family: 'Bebas Neue', cursive;
+
   }
 
     /* My Logo Scrolled */
@@ -12114,27 +12115,17 @@
     left: 20vw;
   }
 
-  .subtitle-title-container {
-
-  }
-
-  /* Small phones for bg photo on index width*/
-  @media (max-width: 480px) {
-    .header {
-      height: 100vh;
-      width: 100vw;
-      background: url(../imgs/folio-5.jpg) no-repeat center center fixed;
-      background-size: cover;
-    }
-  }
-
-  @media (max-width: 480px) {
-    .header .overlay .subtitle {
+  @media only screen and (max-width: 768px) {
+    .header .overlay .title {
       text-align: center;
     }
   }
 
-  style = "position:relative; left:180px; top:30px;"
+  @media only screen and (max-width: 600px) {
+    .header .overlay .title {
+      text-align: center;
+    }
+  }
   
   .header .overlay .title {
     font-family: 'Bebas Neue', cursive;
