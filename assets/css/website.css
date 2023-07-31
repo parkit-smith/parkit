@@ -12028,6 +12028,10 @@
     min-height: 600px;
     background: url(../imgs/header_parkit.jpg) no-repeat center center fixed;
     background-size: cover;
+
+    @media (max-width: 600px) {
+      width: 50vw
+    }
   }
 
   .page-header {
@@ -12109,14 +12113,14 @@
     .header {
       height: 100vh;
       width: 100vw;
-      background: url(../imgs/header_parkit.jpg) no-repeat center center fixed;
+      background: url(../imgs/folio-5.jpg) no-repeat center center fixed;
       background-size: cover;
     }
   }
 
-  @media (min-width: 576px) {
+  @media (max-width: 600px) {
     .header .overlay .subtitle {
-      something about the position lol: 540px;
+      : 540px;
     }
   }
   
