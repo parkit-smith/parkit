@@ -12108,7 +12108,7 @@
 
   @media only screen and (max-width: 768px) {
     .header .overlay .subtitle {
-      margin: auto;
+      left: 0;
     }
   }
 
