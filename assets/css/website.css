@@ -12104,7 +12104,7 @@
   }
 
   /* Small phones for bg photo on index width*/
-  @media (max-width: 1000px) {
+  @media (max-width: 480px) {
     .header {
       height: 100vh;
       width: 100vw;
