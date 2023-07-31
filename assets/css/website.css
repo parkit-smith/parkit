@@ -12101,6 +12101,7 @@
     font-family: 'Inter';
     font-weight: 300;
     font-size: calc(20px + (30 - 20) * ((100vw - 320px) / (1200 - 320)));
+    text-align: center;
   }
 
   /* Small phones for bg photo on index width*/
@@ -12113,11 +12114,13 @@
     }
   }
 
-  @media (max-width: 600px) {
+  @media (max-width: 480px) {
     .header .overlay .subtitle {
-      : 540px;
+      text-align: center;
     }
   }
+
+  style = "position:relative; left:180px; top:30px;"
   
   .header .overlay .title {
     font-family: 'Bebas Neue', cursive;
