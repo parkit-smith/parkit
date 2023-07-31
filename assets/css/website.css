@@ -12106,6 +12106,12 @@
     left: 20%;
   }
 
+  @media only screen and (max-width: 768px) {
+    .header .overlay .subtitle {
+      margin: auto;
+    }
+  }
+
   /* This changes the positioning of Pedaling Parks. Notice how we do not include .subtitle since the indentation makes it such that it is not included in the class roll-up*/
   .header .overlay .title {
     width: 70%;
