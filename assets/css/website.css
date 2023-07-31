@@ -580,6 +580,7 @@
   
   h1, .h1 {
     font-size: 3rem;
+    width:
   }
   
   h2, .h2 {
@@ -12101,6 +12102,12 @@
     font-family: 'Inter';
     font-weight: 300;
     font-size: calc(20px + (30 - 20) * ((100vw - 320px) / (1200 - 320)));
+    text-align: center;
+  }
+
+  .header .overlay .subtitle .title {
+    font-family: 'Inter';
+    font-weight: 600px;
     text-align: center;
   }
 
