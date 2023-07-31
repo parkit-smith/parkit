@@ -12097,7 +12097,7 @@
             justify-content: center;
   }
   
-  .header .overlay .subtitle {
+  .header .overlay .container .subtitle {
     margin-top: -20px;
     font-family: 'Inter';
     font-weight: 300;
@@ -12106,11 +12106,16 @@
     left: 40vw;
   }
 
-  .header .overlay .title {
+  /* This changes the positioning of Pedaling Parks. Notice how we do not include .subtitle since the indentation makes it such that it is not included in the class roll-up*/
+  .header .overlay .container .title {
     font-family: 'Inter';
     font-weight: 600px;
     position: relative;
     left: 40vw;
+  }
+
+  .subtitle-title-container {
+
   }
 
   /* Small phones for bg photo on index width*/
