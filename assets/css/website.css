@@ -12121,11 +12121,6 @@
     left: 0%;
   }
 
-  @media only screen and (min-width: 1200px) {
-    .header .overlay .title {
-      margin: auto;
-    }
-  }
 
   @media only screen and (max-width: 768px) {
     .header .overlay .title {
@@ -12133,11 +12128,6 @@
     }
   }
 
-  @media only screen and (max-width: 600px) {
-    .header .overlay .title {
-      left: 5%;
-    }
-  }
   
   .header .overlay .title {
     font-family: 'Bebas Neue', cursive;
