@@ -12102,14 +12102,16 @@
     font-family: 'Inter';
     font-weight: 300;
     font-size: calc(20px + (30 - 20) * ((100vw - 320px) / (1200 - 320)));
-    left: 40vw;
+    position: relative;
+    left: 20vw;
   }
 
   /* This changes the positioning of Pedaling Parks. Notice how we do not include .subtitle since the indentation makes it such that it is not included in the class roll-up*/
   .header .overlay .container .title {
     font-family: 'Inter';
     font-weight: 600px;
-    left: 40vw;
+    position: relative;
+    left: 20vw;
   }
 
   .subtitle-title-container {
