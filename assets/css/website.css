@@ -12129,13 +12129,13 @@
 
   @media only screen and (max-width: 768px) {
     .header .overlay .title {
-      margin: auto;
+      left: 0;
     }
   }
 
   @media only screen and (max-width: 600px) {
     .header .overlay .title {
-      margin: auto;
+      left: 0;
     }
   }
   
