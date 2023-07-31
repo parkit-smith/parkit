@@ -12103,6 +12103,22 @@
     font-weight: 300;
     font-size: calc(20px + (30 - 20) * ((100vw - 320px) / (1200 - 320)));
   }
+
+  /* Small phones for bg photo on index width*/
+  @media (max-width: 600px) {
+    .header {
+      height: 100vh;
+      width: 100vw;
+      background: url(../imgs/header_parkit.jpg) no-repeat center center fixed;
+      background-size: cover;
+    }
+  }
+
+  @media (min-width: 576px) {
+    .header .overlay .subtitle {
+      something about the position lol: 540px;
+    }
+  }
   
   .header .overlay .title {
     font-family: 'Bebas Neue', cursive;
