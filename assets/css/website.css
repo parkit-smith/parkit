@@ -12124,7 +12124,7 @@
 
   @media only screen and (max-width: 768px) {
     .header .overlay .title {
-      left: 5%;
+      left: 0%;
     }
   }
 
