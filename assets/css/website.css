@@ -12108,7 +12108,7 @@
 
   @media only screen and (max-width: 768px) {
     .header .overlay .subtitle {
-      left: 0;
+      left: 5%;
     }
   }
 
@@ -12129,13 +12129,13 @@
 
   @media only screen and (max-width: 768px) {
     .header .overlay .title {
-      left: 0;
+      left: 5%;
     }
   }
 
   @media only screen and (max-width: 600px) {
     .header .overlay .title {
-      left: 0;
+      left: 5%;
     }
   }
   
