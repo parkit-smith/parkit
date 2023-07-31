@@ -12025,19 +12025,14 @@
   
   .header {
     height: 100vh;
-    min-height: 600px;
-    background: url(../imgs/folio-5.jpg) no-repeat center center fixed;
+    background: url(../imgs/header_parkit.jpg) no-repeat center center fixed;
     background-size: cover;
-
-    @media (max-width: 600px) {
-      width: 50vw
-    }
   }
 
   .page-header {
     height: 40%;
     min-height: 200px;
-    background: url(../imgs/folio-5.jpg) no-repeat center center fixed;
+    background: url(../imgs/header_parkit.jpg) no-repeat center center fixed;
     background-size: cover;
   }
 
@@ -12222,7 +12217,7 @@
   }
   
   section.has-bg-img.bg-img-2:after {
-    background-image: url(../imgs/folio-5.jpg);
+    background-image: url(../imgs/header_parkit.jpg);
   }
   
   section .section-subtitle {
