@@ -12106,12 +12106,6 @@
     left: 0%;
   }
 
-  @media only screen and (max-width: 768px) {
-    .header .overlay .subtitle {
-      left: 5%;
-    }
-  }
-
   /* This changes the positioning of Pedaling Parks. Notice how we do not include .subtitle since the indentation makes it such that it is not included in the class roll-up*/
   .header .overlay .title {
     width: 70%;
@@ -12121,14 +12115,6 @@
     left: 0%;
   }
 
-
-  @media only screen and (max-width: 768px) {
-    .header .overlay .title {
-      left: 0%;
-    }
-  }
-
-  
   .header .overlay .title {
     font-family: 'Bebas Neue', cursive;
     font-size: calc(40px + (90 - 40) * ((100vw - 320px) / (1200 - 320)));
