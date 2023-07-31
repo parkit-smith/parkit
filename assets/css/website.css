@@ -12103,7 +12103,7 @@
     font-weight: 300;
     font-size: calc(20px + (30 - 20) * ((100vw - 320px) / (1200 - 320)));
     position: relative;
-    left: 5%;
+    left: 0%;
   }
 
   @media only screen and (max-width: 768px) {
@@ -12118,7 +12118,7 @@
     font-family: 'Inter';
     font-weight: 600px;
     position: relative;
-    left: 5%;
+    left: 0%;
   }
 
   @media only screen and (min-width: 1200px) {
