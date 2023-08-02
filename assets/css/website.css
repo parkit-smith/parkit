@@ -771,9 +771,21 @@
     margin-left: auto;
   }
 
-  @media only screen and (max-height: 300px) {
+  @media only screen and (max-height: 250px) {
     .index-container {
       margin-top: 100vh;
+    }
+  }
+
+  @media only screen and (max-height: 350px) {
+    .index-container {
+      margin-top: 80vh;
+    }
+  }
+
+  @media only screen and (max-height: 450px) {
+    .index-container {
+      margin-top: 60vh;
     }
   }
   /* Need to add in some media queries to address container margins for smaller screens
