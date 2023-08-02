@@ -772,16 +772,16 @@
     margin-left: auto;
   }
 
-  @media only screen and (max-height: 350px) {
+  @media only screen and (max-height: 450px) {
     .index-container {
-      margin-top: 10vh;
+      margin-top: 80vh;
       background: #121416;
     }
   }
 
-  @media only screen and (max-height: 450px) {
+  @media only screen and (max-height: 550px) {
     .index-container {
-      margin-top: 80vh;
+      margin-top: 60vh;
       background: #121416;
     }
   }
