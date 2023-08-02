@@ -11874,7 +11874,7 @@
     border-radius: 0;
     border-bottom: 1px solid #eaf0fc;
   }
-  
+
   .custom-navbar.affix .navbar-toggler {
     border-color: rgba(73, 80, 87, 0.2) !important;
   }
@@ -12284,9 +12284,9 @@
   }
 
   /* Debug */
- /* * {
+ * {
     background: #000 !important;
     color: #0f0 !important;
     outline: solid #f00 1px !important;
-  } */
+  } 
   
