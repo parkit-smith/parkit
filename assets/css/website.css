@@ -774,7 +774,7 @@
 
   @media only screen and (max-height: 550px) {
     .index-container {
-      margin-top: 40vh;
+      margin-top: 20vh;
       background: #121416;
     }
   }
