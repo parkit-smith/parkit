@@ -772,6 +772,13 @@
     margin-left: auto;
   }
 
+  @media only screen and (max-height: 550px) {
+    .index-container {
+      margin-top: 60vh;
+      background: #121416;
+    }
+  }
+  
   @media only screen and (max-height: 450px) {
     .index-container {
       margin-top: 80vh;
@@ -779,12 +786,6 @@
     }
   }
 
-  @media only screen and (max-height: 550px) {
-    .index-container {
-      margin-top: 60vh;
-      background: #121416;
-    }
-  }
   /* Need to add in some media queries to address container margins for smaller screens
   so there is not overlap between title text and navbar in landscape mobile view */
 
