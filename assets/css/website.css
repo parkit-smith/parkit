@@ -780,18 +780,21 @@
   @media only screen and (max-height: 250px) {
     .index-container {
       margin-top: 100vh;
+      background: #fff;
     }
   }
 
   @media only screen and (max-height: 350px) {
     .index-container {
       margin-top: 80vh;
+      background: #21bdc6;
     }
   }
 
   @media only screen and (max-height: 450px) {
     .index-container {
       margin-top: 60vh;
+      background: #121416;
     }
   }
   /* Need to add in some media queries to address container margins for smaller screens
