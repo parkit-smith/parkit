@@ -781,14 +781,14 @@
 
   @media only screen and (max-height: 460px) {
     .index-container {
-      margin-top: 75vh;
+      margin-top: 140vh;
       background: #121416;
     }
   }
   
   @media only screen and (max-height: 450px) {
     .index-container {
-      margin-top: 100vh;
+      margin-top: 80vh;
       background: #121416;
     }
   }
