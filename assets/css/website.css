@@ -771,29 +771,29 @@
     margin-left: auto;
   }
 
-  @media only screen and (max-height: 150px) {
+  @media only screen and (max-height: 450px) {
     .index-container {
-      margin-top: 120vh;
+      margin-top: 100vh;
     }
   }
 
-  @media only screen and (max-height: 250px) {
+  @media only screen and (max-height: 550px) {
     .index-container {
-      margin-top: 100vh;
+      margin-top: 80vh;
       background: #fff;
     }
   }
 
-  @media only screen and (max-height: 350px) {
+  @media only screen and (max-height: 650px) {
     .index-container {
-      margin-top: 80vh;
+      margin-top: 60vh;
       background: #21bdc6;
     }
   }
 
-  @media only screen and (max-height: 450px) {
+  @media only screen and (max-height: 750px) {
     .index-container {
-      margin-top: 80vh;
+      margin-top: 40vh;
       background: #121416;
     }
   }
