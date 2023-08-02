@@ -773,7 +773,7 @@
 
   @media only screen and (max-height: 450px) {
     .index-container {
-      margin-top: 70vh;
+      margin-top: 100vh;
     }
   }
   /* Need to add in some media queries to address container margins for smaller screens
