@@ -779,9 +779,9 @@
     }
   }
 
-  @media only screen and (max-height: 470px) {
+  @media only screen and (max-height: 460px) {
     .index-container {
-      margin-top: 60vh;
+      margin-top: 75vh;
       background: #121416;
     }
   }
