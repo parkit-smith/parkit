@@ -771,7 +771,7 @@
     margin-left: auto;
   }
 
-  @media only screen and (max-height: 350px) {
+  @media only screen and (max-height: 300px) {
     .index-container {
       margin-top: 100vh;
     }
