@@ -763,6 +763,17 @@
     overflow-y: scroll;
   }
   
+  .index-container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  /* Need to add in some media queries to address container margins for smaller screens
+  so there is not overlap between title text and navbar in landscape mobile view */
+
   .container {
     width: 100%;
     padding-right: 15px;
@@ -12285,7 +12296,7 @@
 
   /* Debug */
  * {
-    background: #000;
+    background: #000 !important;
     color: #0f0 !important;
     outline: solid #f00 1px !important;
   } 
