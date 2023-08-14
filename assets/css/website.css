@@ -4887,6 +4887,12 @@
         -ms-flex-align: center;
             align-items: center;
   }
+
+  @media only screen and (max-width : 768px) {
+    .navbar-collapse {
+    background: white;
+  }
+}
   
   .navbar-toggler {
     padding: 0.25rem 0.75rem;
@@ -4911,7 +4917,7 @@
     background-size: 100% 100%;
   }
   
-  @media (max-width: 475.98px) {
+  @media (max-width: 575.98px) {
     .navbar-expand-sm > .container,
     .navbar-expand-sm > .container-fluid {
       padding-right: 0;
