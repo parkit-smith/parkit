@@ -4888,6 +4888,11 @@
             align-items: center;
   }
 
+  @media only screen and (max-width : 991.98px) {
+    .navbar-collapse {
+    padding-bottom: 1vh;
+  }
+}
   
   .navbar-toggler {
     padding: 0.25rem 0.75rem;
