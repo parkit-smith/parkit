@@ -22,25 +22,22 @@ function screen() {
   var med_screen = window.matchMedia("(max-height:450px) and (max-width:400px)");
   var med_large_screen = window.matchMedia("(max-height:550px) and (max-width:500px)");
   var large_screen = window.matchMedia("(min-height:600px) and (min-width:600px)");
-  if (small_screen.matches) { // If media query matches
-    $("#index-container").css("color", "white");
-    } 
-  else if (small_med_screen.matches) {
-  $("#index-container").css("color", "black");
-    }  
-  else if (med_screen.matches) {
-  $("#index-container").css("color", "red");
-    }  
-  else if (med_large_screen.matches) {
-  $("#index-container").css("color", "green");
-    }  
-  else if (large_screen.matches) {
-  $("#index-container").css("color", "blue");
-    }
+
+  if (small_screen.matches) {
+    $("#index-container").css("top", "20vh");
+  } else if (small_med_screen.matches) {
+    $("#index-container").css("top", "30vh");
+  } else if (med_screen.matches) {
+    $("#index-container").css("top", "40vh");
+  } else if (med_large_screen.matches) {
+    $("#index-container").css("top", "60vh");
+  } else if (large_screen.matches) {
+    $("#index-container").css("top", "70vh");
+  }
 }
 
-$(window).resize(screen) // Attach listener
-screen();
+$(window).resize(screen); // Add event listener
+screen(); // Call function on page load
 
 
 let slideIndex = 1;
