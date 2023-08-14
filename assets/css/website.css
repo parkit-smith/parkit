@@ -766,11 +766,9 @@
   .index-container {
     width: 100%;
     height: 100%;
+    position: relative;
+    left: -100vw;
     display: flexbox;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
   }
 
   /* Need to add in some media queries to address container margins for smaller screens
