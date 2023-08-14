@@ -23,19 +23,19 @@ function screen(small_screen, small_med_screen, med_screen, med_large_screen, la
   var med_large_screen = window.matchMedia("(max-height:550px) and (max-width:500px)");
   var large_screen = window.matchMedia("(min-height:600px) and (min-width:600px)");
   if (small_screen.matches) { // If media query matches
-    $("#index-container").style.top="20vh";
+    $("#index-container").css("color", "whirl");
     } 
   else if (small_med_screen.matches) {
-  $("#index-container").css("top", "20vh");
+  $("#index-container").css("color" "black");
     }  
   else if (med_screen.matches) {
-  $("#index-container").css("top", "40vh");
+  $("#index-container").css("color", "red");
     }  
   else if (med_large_screen.matches) {
-  $("#index-container").css("top", "60vh");
+  $("#index-container").css("color", "green");
     }  
   else if (large_screen.matches) {
-  $("#index-container").css("top", "70vh");
+  $("#index-container").css("color", "blue");
     }
 }
 
