@@ -4864,7 +4864,7 @@
   }
 
   @media only screen and (max-width: 991.98px) {
-    .navbar-nav li a {
+    .navbar-nav {
       color:blue;
     }
   }
