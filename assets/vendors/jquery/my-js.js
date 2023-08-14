@@ -16,6 +16,33 @@ $(document).ready(function(){
     });
 });
 
+function screen(small_screen, small_med_screen, med_screen, med_large_screen, large_screen) {
+  var small_screen = window.matchMedia("(max-height:400px) and (max-width: 150px)");
+  var small_med_screen = window.matchMedia("(max-height:500px) and (max-width: 250px)");
+  var med_screen = window.matchMedia("(max-height:450px) and (max-width:400px)");
+  var med_large_screen = window.matchMedia("(max-height:550px) and (max-width:500px)");
+  var large_screen = window.matchMedia("(min-height:600px) and (min-width:600px)");
+  if (small_screen.matches) { // If media query matches
+    $("#index-container").style.top="20vh";
+    } 
+  else if (small_med_screen.matches) {
+  $("#index-container").css("top", "20vh");
+    }  
+  else if (med_screen.matches) {
+  $("#index-container").css("top", "40vh");
+    }  
+  else if (med_large_screen.matches) {
+  $("#index-container").css("top", "60vh");
+    }  
+  else if (large_screen.matches) {
+  $("#index-container").css("top", "70vh");
+    }
+}
+
+window.resize(screen) // Attach listener
+screen();
+
+
 let slideIndex = 1;
 showSlides(slideIndex);
 
