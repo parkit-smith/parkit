@@ -4742,7 +4742,7 @@
   
   .nav-tabs .nav-link.active,
   .nav-tabs .nav-item.show .nav-link {
-    color: red;
+    color: #fff;
     background-color: transparent;
     border-color: #dee2e6 #dee2e6 #fff;
   }
@@ -4861,6 +4861,12 @@
   .navbar-nav .nav-link {
     padding-right: 0;
     padding-left: 0;
+  }
+
+  @media only screen and (max-width: 991.98px) {
+    .navbar-nav li a {
+      color:blue;
+    }
   }
   
   .navbar-nav .dropdown-menu {
