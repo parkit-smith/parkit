@@ -16,7 +16,7 @@ $(document).ready(function(){
     });
 });
 
-function screen(small_screen, small_med_screen, med_screen, med_large_screen, large_screen) {
+function screen() {
   var small_screen = window.matchMedia("(max-height:400px) and (max-width: 150px)");
   var small_med_screen = window.matchMedia("(max-height:500px) and (max-width: 250px)");
   var med_screen = window.matchMedia("(max-height:450px) and (max-width:400px)");
@@ -39,7 +39,7 @@ function screen(small_screen, small_med_screen, med_screen, med_large_screen, la
     }
 }
 
-window.resize(screen) // Attach listener
+$(window).resize(screen) // Attach listener
 screen();
 
 
