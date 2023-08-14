@@ -4865,7 +4865,7 @@
 
   @media only screen and (max-width: 991.98px) {
     .navbar-nav li a {
-      color:blue;
+      color:red;
     }
   }
   
@@ -5272,7 +5272,7 @@
   }
   
   .navbar-dark .navbar-toggler {
-    color: red;
+    color: #fff;
     border-color: rgba(255, 255, 255, 0.1);
   }
   
@@ -5281,7 +5281,7 @@
   }
   
   .navbar-dark .navbar-text {
-    color: red;
+    color: #fff;
   }
   
   .navbar-dark .navbar-text a {
