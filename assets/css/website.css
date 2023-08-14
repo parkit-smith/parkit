@@ -4875,6 +4875,7 @@
   }
   
   .navbar-collapse {
+    background-color: #fff;
     -webkit-flex-basis: 100%;
         -ms-flex-preferred-size: 100%;
             flex-basis: 100%;
