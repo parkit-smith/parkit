@@ -12170,6 +12170,36 @@
       margin-top: 10vh;
     }
   }
+
+  @media (min-height: 200.98px) {
+    .header .overlay .subtitle {
+      margin-top: 90vh;
+    }
+  }
+
+  @media (min-height: 250.98px) {
+    .header .overlay .subtitle {
+      margin-top: 70vh;
+    }
+  }
+
+  @media (min-height: 300.98px) {
+    .header .overlay .subtitle {
+      margin-top: 50vh;
+    }
+  }
+
+  @media (min-height: 350.98px) {
+    .header .overlay .subtitle {
+      margin-top: 30vh;
+    }
+  }
+
+  @media (min-height: 400.98px) {
+    .header .overlay .subtitle {
+      margin-top: 10vh;
+    }
+  }
   
   .header-title {
     font-size: 2.4rem;
