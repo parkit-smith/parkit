@@ -12136,7 +12136,7 @@
 
   @media only screen and (max-height: 250) {
     .header .overlay .title {
-      margin-top: 
+      margin-top: 50vh; 
     }
   }
 
