@@ -768,6 +768,7 @@
     height: 100%;
     position: relative;
     left: 10vw;
+    top: 10vh;
     display: flexbox;
   }
 
