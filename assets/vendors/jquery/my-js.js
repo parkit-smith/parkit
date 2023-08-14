@@ -9,6 +9,16 @@ $(document).ready(function(){
 
 $(document).ready(function(){
   $(window).scroll(function(){
+   if ($(window).scrollTop() > 30) and window.matchMedia("(max-width: 991.98px)") {
+    $("#navbarSupportedContent").css('background', 'black');
+    } else {
+    $("#navbarSupportedContent").css('color', 'white')}
+    });
+});
+
+
+$(document).ready(function(){
+  $(window).scroll(function(){
    if ($(window).scrollTop() > 30) {
     $("#logo").css('color', 'black');
     } else {

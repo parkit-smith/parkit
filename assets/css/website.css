@@ -4862,11 +4862,6 @@
     padding-right: 0;
     padding-left: 0;
   }
-
-  @media only screen and (max-width: 991.98px) {
-    [class*="navbar-nav"] {background-color: #fff}
-    [class*="ml-auto"] { color:red; }
-    }
   
   .navbar-nav .dropdown-menu {
     position: static;
@@ -4893,12 +4888,6 @@
             align-items: center;
   }
 
-  @media only screen and (max-width : 991.98px) {
-    .navbar-collapse {
-    background: rgba(0, 0, 0, 0.7);
-    padding-bottom: 1vh;
-  }
-}
   
   .navbar-toggler {
     padding: 0.25rem 0.75rem;
