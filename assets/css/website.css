@@ -12128,6 +12128,32 @@
     left: 0%;
   }
 
+  @media only screen and (max-height: 200) {
+    .header .overlay .title {
+      margin-top: 60vh;
+    }
+  }
+
+  @media only screen and (max-height: 250) {
+    .header .overlay .title {
+      margin-top: 
+    }
+  }
+
+  @media only screen and (max-height: 300) {
+    .header .overlay .title {
+      margin-top: 
+    }
+  }
+
+  @media only screen and (max-height: 350) {
+    
+  }
+
+  @media only screen and (max-height: 400) {
+    
+  }
+
   .header .overlay .title {
     font-family: 'Bebas Neue', cursive;
     font-size: calc(40px + (90 - 40) * ((100vw - 320px) / (1200 - 320)));
