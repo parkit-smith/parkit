@@ -12142,16 +12142,20 @@
 
   @media only screen and (max-height: 300) {
     .header .overlay .title {
-      margin-top: 
+      margin-top: 50vh;
     }
   }
 
   @media only screen and (max-height: 350) {
-    
+    .header .overlay .title {
+      margin-top: 40vh;
+    }
   }
 
   @media only screen and (max-height: 400) {
-    
+    .header .overlay .title {
+      margin-top: 40vh;
+    }
   }
 
   .header .overlay .title {
