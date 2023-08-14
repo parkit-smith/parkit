@@ -4742,7 +4742,7 @@
   
   .nav-tabs .nav-link.active,
   .nav-tabs .nav-item.show .nav-link {
-    color: #fff;
+    color: red;
     background-color: transparent;
     border-color: #dee2e6 #dee2e6 #fff;
   }
