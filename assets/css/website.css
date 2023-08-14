@@ -4888,9 +4888,9 @@
             align-items: center;
   }
 
-  @media only screen and (max-width : 1000px) {
+  @media only screen and (max-width : 991.98px) {
     .navbar-collapse {
-    background: rgba(0, 0, 0, 0.3);
+    background: rgba(0, 0, 0, 0.6);
   }
 }
   
