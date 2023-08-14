@@ -4864,10 +4864,9 @@
   }
 
   @media only screen and (max-width: 991.98px) {
-    .navbar-nav li a {
-      color:red;
+    [class*="navbar-nav"] {background-color: #fff;}
+    [class*="ml-auto"] { color:red; }
     }
-  }
   
   .navbar-nav .dropdown-menu {
     position: static;
