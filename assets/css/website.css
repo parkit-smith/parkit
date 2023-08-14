@@ -4875,7 +4875,6 @@
   }
   
   .navbar-collapse {
-    background-color: #fff;
     -webkit-flex-basis: 100%;
         -ms-flex-preferred-size: 100%;
             flex-basis: 100%;
@@ -4912,7 +4911,7 @@
     background-size: 100% 100%;
   }
   
-  @media (max-width: 575.98px) {
+  @media (max-width: 475.98px) {
     .navbar-expand-sm > .container,
     .navbar-expand-sm > .container-fluid {
       padding-right: 0;
