@@ -12128,35 +12128,6 @@
     left: 0%;
   }
 
-  @media only screen and (max-height: 200px) {
-    .header .overlay .title {
-      margin-top: 60vh;
-    }
-  }
-
-  @media only screen and (max-height: 250px) {
-    .header .overlay .title {
-      margin-top: 50vh; 
-    }
-  }
-
-  @media only screen and (max-height: 300px) {
-    .header .overlay .title {
-      margin-top: 50vh;
-    }
-  }
-
-  @media only screen and (max-height: 350px) {
-    .header .overlay .title {
-      margin-top: 40vh;
-    }
-  }
-
-  @media only screen and (max-height: 400px) {
-    .header .overlay .title {
-      margin-top: 40vh;
-    }
-  }
 
   .header .overlay .title {
     font-family: 'Bebas Neue', cursive;
@@ -12170,9 +12141,33 @@
     margin-bottom: 40px;
   }
   
-  @media (min-width: 500.98px) {
-    .header .overlay .subtitle {
+  @media (min-height: 200.98px) {
+    .header .overlay .title {
       margin-top: 90vh;
+    }
+  }
+
+  @media (min-height: 250.98px) {
+    .header .overlay .title {
+      margin-top: 70vh;
+    }
+  }
+
+  @media (min-height: 300.98px) {
+    .header .overlay .title {
+      margin-top: 50vh;
+    }
+  }
+
+  @media (min-height: 350.98px) {
+    .header .overlay .title {
+      margin-top: 30vh;
+    }
+  }
+
+  @media (min-height: 400.98px) {
+    .header .overlay .title {
+      margin-top: 10vh;
     }
   }
   
