@@ -4891,11 +4891,14 @@
   @media only screen and (max-width : 991.98px) {
     .navbar-collapse {
     padding-bottom: 1vh;
+    background-color: #fff;
   }
 }
 
-.navbar-dark .navbar-nav .nav-link {
-  color: red !important;
+@media only screen and (max-width: 991.98px) {
+  .navbar-dark .navbar-nav .nav-link {
+    color: black !important;
+  }
 }
   
   .navbar-toggler {
