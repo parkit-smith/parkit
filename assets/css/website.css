@@ -4895,7 +4895,7 @@
 }
 
 .navbar-dark .navbar-nav .nav-link {
-  color: red;
+  color: red !important;
 }
   
   .navbar-toggler {
