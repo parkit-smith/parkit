@@ -4893,6 +4893,10 @@
     padding-bottom: 1vh;
   }
 }
+
+.navbar-dark .navbar-nav .nav-link {
+  color: red;
+}
   
   .navbar-toggler {
     padding: 0.25rem 0.75rem;
