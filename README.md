@@ -1,14 +1,14 @@
 # ParKit
 This Git Repository is the home of all files relevant to ParKit@Smith's website! 
 
-Continue reading below [for a guide to editing for those interested in web dev](#guide-to-editing-for-the-web-developer) and [for those not interested in web dev](#guide-to-basic-editing)
+Continue reading below [for a guide to editing for those interested in web dev](#guide-to-editing-for-the-web-developer) and [for those not interested in web dev](#guide-to-basic-editing).
 
 ## Guide to Editing for the Web Developer
 
 ## Guide to Basic Editing
     The page files may look scary at first, but editing them is simple! In this short guide, we'll address some of the most common edits and how to do them!
-## Where/How Do You Edit?
-    Our Git repository is hosted on a website called Github.com. Log in using the following credentials:
+## But First: Where/How Do You Edit?
+    Our project repository is hosted on a website called [Github](https://github.com). Log in using the following credentials:
         username: parkit
         password: parkitsmith
     You'll get to our repository homepage, and you'll see a list of all of our project files. Click on the one you want to edit. Then, in the top-right corner, there is an 'Edit' button, which looks like a pen. Click that and you can edit. 
