@@ -10,8 +10,10 @@ The page files may look scary at first, but editing them is simple! In this shor
 
 ## But First: Where/How Do You Edit?
 Our project repository is hosted on a website called [Github](https://github.com). Log in using the following credentials:
+
     username: parkit
-    password: parkitsmith
+    password: 75OutletRestrict
+    
 You'll get to our repository homepage, and you'll see a list of all of our project files. Click on the one you want to edit. Then, in the top-right corner, there is an 'Edit' button, which looks like a pen. Click that and you can edit. 
 
 After you are done editing, scroll down and you'll see the 'Commit' and 'Commit Message' boxes. These boxes are where you can name the change you made, and write a brief description of what you changed respectively. Please do not skip this as it helps us track who has changed what, especially if the website gets broken!
