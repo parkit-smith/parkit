@@ -1,9 +1,7 @@
 # ParKit
 This Git Repository is the home of all files relevant to ParKit@Smith's website! 
 
-Continue reading below [for a guide to editing for those interested in web dev](#guide-to-editing-for-the-web-developer) and [for those not interested in web dev](#guide-to-basic-editing).
-
-## Guide to Editing for the Web Developer
+Continue reading below [for a basic guide to editing](#guide-to-basic-editing).
 
 ## Guide to Basic Editing
 
