@@ -6,9 +6,11 @@ Continue reading below [for a guide to editing for those interested in web dev](
 ## Guide to Editing for the Web Developer
 
 ## Guide to Basic Editing
+
 The page files may look scary at first, but editing them is simple! In this short guide, we'll address some of the most common edits and how to do them!
 
 ## But First: Where/How Do You Edit?
+
 Our project repository is hosted on a website called [Github](https://github.com). Log in using the following credentials:
 
     username: parkit
@@ -48,4 +50,5 @@ Congratulations! You have an amazing new photo to add to the website. Before we 
 7. Done!
 
 ### Design Changes
-    Design changes generally require some familiarity with the structure and syntax of HTML and CSS. If you feel confident enough in your understanding of the structure of the webpage, feel free to make minor design changes. However, if you are at all unsure, contact Laura and she will see if what you want is possible!
+
+Design changes generally require some familiarity with the structure and syntax of HTML and CSS. If you feel confident enough in your understanding of the structure of the webpage, feel free to make minor design changes. However, if you are at all unsure, contact Laura and she will see if what you want is possible!
