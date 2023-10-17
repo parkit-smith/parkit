@@ -21,6 +21,19 @@ After you are done editing, scroll down and you'll see the 'Commit' and 'Commit 
 After you have filled out the Commit boxes, press the green Commit button, and you are done!
     
 ### Editing a Paragraph
+
+1. Head to the webpage that holds the paragraph you want to edit.
+2. The information for the content and design of each webpage is housed in separate HTML files that we have in our GitHub repository. For example, the "Our Instructables" webpage's information is housed in a file called `instructables.html`, and the "Gallery" webpage's information is housed ina  file called `gallery.html`. Find the correct HTML for your target webpage. Click on it to open it.
+3. Now, you'll see a bunch of scary-looking text, but no fear! Find the pencil icon in the top right corner to edit the HTML information.
+4. Now, go back to the normal webpage, and find a slice of text from the paragraph you want to edit. Copy that text.
+5. Go back to the HTML Editing page and use the Find tool (command+F) to Find the sentence you copied from your paragraph within the HTML document. This is how you can find the text of paragraph that you want to edit buried in all of the extra HTML information.
+6. Now, edit the paragraph how you want! If you want to insert a NEW paragraph, press Return, and then type the following: <p></p>. Between the two middle carrots is where you type your new paragraph, like:
+
+   <p>New paragraph awesome text yay!</p>
+
+7. Once you're done editing, press the big green "Commit Changes" button on the top righthand corner of the editing page. You'll be asked to write a Commit message to detail what you edited, so you can just write a short description and then press Commit!
+8. Done!
+
 ### Adding a Photo
 ### Design Changes
     Design changes generally require some familiarity with the structure and syntax of HTML and CSS. If you feel confident enough in your understanding of the structure of the webpage, feel free to make minor design changes. However, if you are at all unsure, contact Laura and she will see if what you want is possible!
