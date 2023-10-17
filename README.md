@@ -35,5 +35,17 @@ After you have filled out the Commit boxes, press the green Commit button, and y
 8. Done!
 
 ### Adding a Photo
+
+Congratulations! You have an amazing new photo to add to the website. Before we do anything, we want to upload our photo to our GitHub repository so that our webpage has access to display it. 
+
+1. Make sure your image is a .png, .jpg, or .jpeg. Make sure it has a descriptive, but short, name!
+2. Go to our GitHub repository and first navigate to the `assets` folder, and then `imgs` folder. Then, use the top-right `Add file` button and upload your image.
+3. Now, the procedure is very similar to editing a paragraph! Go back to the main GitHub repository homepage. The information for the content and design of each webpage is housed in separate HTML files that we have in our GitHub repository. For example, the "Our Instructables" webpage's information is housed in a file called `instructables.html`, and the "Gallery" webpage's information is housed ina  file called `gallery.html`. Find the correct HTML for your target webpage. Click on it to open it.
+4. Now, you'll see a bunch of scary-looking text, but no fear! Find the pencil icon in the top right corner to edit the HTML information.
+4. Now, go back to the normal webpage, and find the last sentence of text before the place you want to add a photo. Copy that sentence.
+5. Go back to the HTML Editing page and use the Find tool (command+F) to Find the sentence you copied from your paragraph within the HTML document. This is how you can find the correct place to insert your photo buried in all of the extra HTML information.
+6. Then, press return to create a new line, and paste the following: `<img src="assets/imgs/NAME_OF_IMAGE">`. So, for example, if I had a photo called `tree.jpeg` that I have uploaded, I would paste the following: `<img src="assets/imgs/tree.jpeg">`
+7. Done!
+
 ### Design Changes
     Design changes generally require some familiarity with the structure and syntax of HTML and CSS. If you feel confident enough in your understanding of the structure of the webpage, feel free to make minor design changes. However, if you are at all unsure, contact Laura and she will see if what you want is possible!
