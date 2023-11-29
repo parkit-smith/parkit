@@ -56,14 +56,34 @@ Now, you can edit this document right in GitHub! Here are the steps to edit it a
 1. Click on your document in the repository. You should get to a screen with your document that shows a bunch of HTML text that make up the style and content of your document.
 2. Click on the pencil tool in the upper-right corner. This is your edit button.
 3. Now, you should be redirected to a window where you can edit the contents of your document. There are helpful comments highlighted in grey text which guide you on where to type to edit the document with your blog post's contents. See the relevant examples below:
-4. Once you've replaced the template text with your blog post's contents, the last step is to hit the green `Commit changes...` button in the upper-right corner. You will be prompted to add a commit message to describe what you have updated in the document. Write a short note as to what you have done to the document, such as, `added blog post about our recent deployment in downtown Northampton` and then press `Commit changes`. Now, your blog post has a webpage! Now, we have to provide a way for website visitors to actually get to your blog's webpage.
+
+![Example of Blog Post Title Editing](blog_instructions_imgs/img-6.png)
+This photo shows you where to edit the title of your blog post's page.
+
+![Example of Blog Post Title Editing](blog_instructions_imgs/img-5.png)
+This photo shows you where to edit the text content of your blog post.
+
+![Example of Blog Post Title Editing](blog_instructions_imgs/img-4.png)
+This photo shows you where to edit the photo on your blog post's page. Make sure to upload your image to this GitHub repository first (upload it in the folder called `blog_post_images`!), then replace the existing path with the correct path to your image.
+
+5. Once you've replaced the template with your blog post's information/contents, the last step is to hit the green `Commit changes...` button in the upper-right corner. You will be prompted to add a commit message to describe what you have updated in the document. Write a short note as to what you have done to the document, such as, `added blog post about our recent deployment in downtown Northampton` and then press `Commit changes`. Now, your blog post has a webpage! Now, we have to provide a way for website visitors to actually get to your blog's webpage.
 
 To do this, we need to go back to the homepage of our GitHub repository that lists all of the documents that make up our website. Here are the steps to create a link to your new blogpost on our website:
 
 1. Find the page titled `research.html` and click on it.
 2. Click on the pencil tool in the upper-right corner. This is your edit button.
 3. Now, you should be redirected to a window where you can edit the contents of your document. Again, we will be using the comments highlighted in grey text to help us update what we need to to link our blog post. See the relevant examples below:
-4. Once you've updated our `research.html` page with your blog post's information, the last step is to hit the green `Commit changes...` button in the upper-right corner. You will be prompted to add a commit message to describe what you have updated in the document. Write a short note as to what you have done to the document, such as, `added downtown northampton installation blog post to our blog post page` and then press `Commit changes`. Now, people can access your blog post's webpage from our webpage that spotlights our research on our website! Wait for five minutes for our website to update, and then you can double-check that your blog post has published successfully at [this link](https://parkit-smith.github.io/parkit/research.html).
+
+![Example of Blog Post Title Editing](blog_instructions_imgs/img-3.png)
+This photo shows you where to edit the photo of your blog post's card.
+
+![Example of Blog Post Title Editing](blog_instructions_imgs/img-2.png)
+This photo shows you where to edit the title of your blog post's card.
+
+![Example of Blog Post Title Editing](blog_instructions_imgs/img-1.png)
+This photo shows you where to edit the short description/summary of your blog post's page. In the line just below the comment in the image with `<a href="index.html"...`, replace `index.html` with the correct name of your blog page. Remember when you downloaded the template document and then renamed the downloaded document to something like `blog-1.html`? `blog-1.html` would be what you would replace `index.html` with!
+
+5. Once you've updated our `research.html` page with your blog post's information, the last step is to hit the green `Commit changes...` button in the upper-right corner. You will be prompted to add a commit message to describe what you have updated in the document. Write a short note as to what you have done to the document, such as, `added downtown northampton installation blog post to our blog post page` and then press `Commit changes`. Now, people can access your blog post's webpage from our webpage that spotlights our research on our website! Wait for five minutes for our website to update, and then you can double-check that your blog post has published successfully at [this link](https://parkit-smith.github.io/parkit/research.html).
 
 ### Design Changes
 
