@@ -67,7 +67,7 @@ This photo shows you where to edit the text content of your blog post.
 
 ![Example of Blog Post Title Editing](blog_instructions_imgs/img-4.png)
 
-This photo shows you where to edit the photo on your blog post's page. Make sure to upload your image to this GitHub repository first (upload it in the folder called `blog_post_images`!), then replace the existing path with the correct path to your image.
+This photo shows you where to edit the photo on your blog post's page. Make sure to upload your image to this GitHub repository first (upload it in the folder called `blog_post_images`!), then replace the existing path (which is currently "assets/imgs/our-project.jpg") with the correct path to your image.
 
 5. Once you've replaced the template with your blog post's information/contents, the last step is to hit the green `Commit changes...` button in the upper-right corner. You will be prompted to add a commit message to describe what you have updated in the document. Write a short note as to what you have done to the document, such as, `added blog post about our recent deployment in downtown Northampton` and then press `Commit changes`. Now, your blog post has a webpage! Now, we have to provide a way for website visitors to actually get to your blog's webpage.
 
